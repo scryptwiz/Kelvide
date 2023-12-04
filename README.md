@@ -6,12 +6,11 @@ Hi 👋 I'm Kelvin Ajayi
 Developer who eats, sleeps, walks in JavaScript
 ---------------------------------------------
 
-I love to build X, I am a developer who eats javascript, sells React, and Loves Node JS.
+I love to build, I am a developer who eats javascript and Loves Node JS.
 
 * 🌍  I'm based in West Africa
-* 🚀  I'm currently working on [Developing A Bank Web APP](https://github.com/Kelvide/Bank-App) with a friend of mine [Folagbade](https://github.com/Marvel-Deone)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on any web or native app project
+* 🧠  I'm Diving deeper into the World of NodeJS
+* 🤝  I'm open to collaborating on any web application project
 * ⚡  Learning, Building, Documenting
 
 ### Skills
@@ -40,5 +39,3 @@ I love to build X, I am a developer who eats javascript, sells React, and Loves 
 
 
 If you want to know more about me You can check this out https://youtu.be/LfW_w74QH08
-
-🤔  I love Crpytos.
