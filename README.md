@@ -26,8 +26,6 @@ I love to build, I am a developer who eats javascript and Loves Node JS.
 </p>
     
 ### Badges
-    
-<a href="http://www.github.com/Kelvide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvide&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Kelvide"><img src="https://activity-graph.herokuapp.com/graph?username=Kelvide&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
    
